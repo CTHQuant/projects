@@ -24,6 +24,8 @@
 - 自動產生與評估數千組 Alpha 表達式
 - 2025 WorldQuant IQC 全球排名第 57、台灣區第 1
 
+![IQC 排名證明](./assets/iqc_ranking.png)
+
 ---
 
 ## 專案三：SinoPac AI GO 2025 股票預測模型  
@@ -34,6 +36,8 @@
 - F1 Score：0.8615，競賽排名第 14 / 868（前 1.6%）
 - Optuna 自動搜尋最佳參數組合
 - 半監督式學習結合技術指標與統計特徵
+
+![AI GO 競賽成績證明](./assets/aigo_ranking.png)
 
 ---
 
