@@ -22,7 +22,7 @@
 
 - 整合模板、data space、neutralization 等模組化設計
 - 自動產生與評估數千組 Alpha 表達式
-- 2025 WorldQuant IQC (on-going) 全球排名第 57、台灣區第 1
+- 2025 WorldQuant IQC 全球排名第 19、台灣區第 1
 
 ![IQC 排名證明](./assets/iqc_ranking.png)
 
