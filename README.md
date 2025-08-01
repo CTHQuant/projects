@@ -24,7 +24,7 @@
 - 自動產生與評估數千組 Alpha 表達式
 - 2025 WorldQuant IQC 全球排名第 19、台灣區第 2
 
-![IQC 排名證明](./assets/iqc_ranking.png)
+![IQC 排名證明](./assets/2025iqc_ranking.png)
 
 ---
 
