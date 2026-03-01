@@ -13,22 +13,10 @@
 - 自動化生成每日 PnL 與進場記錄
 - Sharpe Ratio：5.46，Margin：37.42‰
 
----
-
-## 專案二：WorldQuant Alpha 策略自動生成器  
-[前往專案](https://github.com/CTHQuant/worldquant-alpha-ga-optimizer)
-
-> 使用 Genetic Algorithm 結合 Fast Expression template，批次生成策略，並對接 simulate API 回收績效與自動篩選。
-
-- 整合模板、data space、neutralization 等模組化設計
-- 自動產生與評估數千組 Alpha 表達式
-- 2025 WorldQuant IQC 全球排名第 19、台灣區第 2
-
-![IQC 排名證明](./assets/2025iqc_ranking.png)
 
 ---
 
-## 專案三：SinoPac AI GO 2025 股票預測模型  
+## 專案二：SinoPac AI GO 2025 股票預測模型  
 [前往專案](https://github.com/CTHQuant/ml-stock-prediction-optuna)
 
 > 針對台股個股漲跌預測設計的機器學習架構，結合 LGBM/XGBoost/CatBoost，並採用 Pseudo-labeling 解決資料不平衡問題。
